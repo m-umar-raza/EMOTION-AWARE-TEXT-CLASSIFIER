@@ -175,7 +175,7 @@ git push -u origin main
 ## 👥 Team Members
 
 - Mohid Arshad — [GitHub](https://github.com/akamohid) | [LinkedIn](https://linkedin.com/in/mohid-arshad-347180235/)
-- Mohammad Umar [LinkedIn](https://www.linkedin.com/in/mohammad-umar-1147a62a6/)
+- Mohammad Umar — [GitHub](https://github.com/m-umar-raza) | [LinkedIn](https://www.linkedin.com/in/mohammad-umar-1147a62a6/)
 - Mohammad Hasnain [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)
 - Tahir Mehmood [LinkedIn](https://www.linkedin.com/in/tahir-mehmood-622a412a0/)
 
@@ -189,10 +189,10 @@ Distributed under the **MIT License**. See `LICENSE` for more details.
 
 ## 📫 Contact
 
-👤 **Mohid Arshad**  
-- GitHub: [akamohid](https://github.com/akamohid)  
-- LinkedIn: [mohid-arshad-347180235](https://linkedin.com/in/mohid-arshad-347180235/)  
-- Email: akamohid@gmail.com  
+👤 **Mohammad Umar**  
+- GitHub: [m-umar-raza](https://github.com/m-umar-raza)  
+- LinkedIn: [Mohammad Umar](www.linkedin.com/in/mohammad-umar-1147a62a6)  
+- Email: m.umar81323@gmail.com  
 
 ---
 
