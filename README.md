@@ -175,7 +175,7 @@ git push -u origin main
 ## 👥 Team Members
 
 - Mohid Arshad — [GitHub](https://github.com/akamohid) | [LinkedIn](https://linkedin.com/in/mohid-arshad-347180235/)
-- Mohammad Umar — [GitHub](https://github.com/m-umar-raza) | [LinkedIn](https://www.linkedin.com/in/mohammad-umar-1147a62a6/)
+- Mohammad Umar — [GitHub](https://github.com/m-umar-raza) | [LinkedIn](https://linkedin.com/in/mohammad-umar-1147a62a6/)
 - Mohammad Hasnain [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)
 - Tahir Mehmood [LinkedIn](https://www.linkedin.com/in/tahir-mehmood-622a412a0/)
 
