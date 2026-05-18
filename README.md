@@ -24,7 +24,7 @@ A **CPU-efficient**, **explainable**, and **production-ready** pipeline that cla
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/akamohid/EMOTION-AWARE-TEXT-CLASSIFIER.git
+git clone https://github.com/m-umar-raza/EMOTION-AWARE-TEXT-CLASSIFIER.git
 cd EMOTION-AWARE-TEXT-CLASSIFIER
 pip install -r requirements.txt
 python src/preprocess.py --input data/balanced_dataset.csv --output data/clean_data.csv
