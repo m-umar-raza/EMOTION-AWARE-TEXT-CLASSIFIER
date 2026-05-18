@@ -1,8 +1,10 @@
-pandas
-numpy
-scikit-learn
-spacy
-matplotlib
+joblib
 jupyter
-vaderSentiment
+matplotlib
 nltk
+numpy
+pandas
+scikit-learn
+seaborn
+vaderSentiment
+wordcloud
