@@ -1,4 +1,4 @@
-# 😄 Emotion-Aware Text Classifier 😢
+# 😄 Emotion-Aware Text Classifier 
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE) [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
 
